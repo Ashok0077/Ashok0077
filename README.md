@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashok vaishnav</h1>
 <h3 align="center">A passionate web developer developer from India. I am currently doing my B.Tech from GGSIPU in CSE. I like to read book and learn new skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok0077&label=Profile%20views&color=0e75b6&style=flat" alt="ashok0077" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok0077&label=Profile%20views+100&color=0e75b6&style=flat" alt="ashok0077" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashok0077" alt="ashok0077" /></a> </p>
 
