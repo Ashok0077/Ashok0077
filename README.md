@@ -24,9 +24,9 @@
 --------
 
 <h3>Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashok0077&theme=dark&show_icons=true&locale=en&layout=compact" alt="ashok0077" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashok0077&theme=omni&show_icons=true&locale=en&layout=compact" alt="ashok0077" /></p>
 <p></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok0077&theme=dark&show_icons=true&locale=en" alt="ashok0077" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashok0077&theme=omni&show_icons=true&locale=en" alt="ashok0077" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashok0077&theme=dark" alt="ashok0077" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashok0077&theme=omni&show_icons=true&locale=en" alt="ashok0077" /></p>
 
