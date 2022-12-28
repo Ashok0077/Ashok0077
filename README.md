@@ -2,10 +2,9 @@
 <h3 align="center">A passionate web developer developer from India. I am currently doing my B.Tech from GGSIPU in CSE. I like to read book and learn new skills.</h3>
 
 -------
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/s8E_OgddtiIAAAAC/karma-akabane-assassination-classroom.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok0077&label=Profile%20views&color=3E90C4&style=flat" alt="ashok0077" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashok0077" alt="ashok0077" /></a> </p>
 
 - 🌱 I’m currently learning **react js**
 
