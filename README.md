@@ -1,4 +1,4 @@
-<img  width="1000" height="500" src="https://i.pinimg.com/originals/19/22/95/192295b3136ae7a49827ceabfbcbf1ca.jpg">
+<img src="https://i.pinimg.com/originals/19/22/95/192295b3136ae7a49827ceabfbcbf1ca.jpg">
 
 <h1 align="center">Hi 👋, I'm Ashok vaishnav</h1>
 <h3 align="center">A passionate web developer developer from India. I am currently doing my B.Tech from GGSIPU in CSE. I like to read book and learn new skills.</h3>
